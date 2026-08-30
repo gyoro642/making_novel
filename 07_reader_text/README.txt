@@ -3,8 +3,8 @@
 このフォルダは、04_manuscript の本文を読者に渡しやすいプレーンテキスト形式にしたものです。
 
 内容
-- all_episodes.txt: 第1話〜第50話の全話まとめ
-- chapter01.txt〜chapter05.txt: 章ごとの分割版
+- all_episodes.txt: 全話まとめ
+- chapter01.txt 以降: 章ごとの分割版
 
 方針
 - 正式な原稿は 04_manuscript の各 episode ファイルを正とします。
